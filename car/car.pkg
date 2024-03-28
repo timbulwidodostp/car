@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'car': Stata package to compute point estimates and standard errors for experiments with covariate adaptive randomization Use car With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f car_sat.ado
+f car_sat.sthlp
+f car_sfe.ado
+f car_sfe.sthlp
