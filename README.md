@@ -3,6 +3,8 @@ Stata package to compute point estimates and standard errors for experiments wit
 
 Fully saturated linear regression with covariate-adaptive randomization standard error adjustment Use car With STATA 18
 
+https://www.youtube.com/watch?v=IC-y_Rjf1uI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
